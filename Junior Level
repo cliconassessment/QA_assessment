@@ -1,0 +1,7 @@
+public class FirstNonRepeatedCharFirst {
+    public static void main(String args[]) {
+     
+        String inputStr ="teeter";
+// Write the sudo code
+    }
+}
