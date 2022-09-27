@@ -1,0 +1,16 @@
+public class example {
+    private StringBuilder output = new StringBuilder();
+    private final String inputstring;
+   // write the sudo code
+    }
+    
+    
+    public static void main (String args[])
+    {
+        //Write the sudo code
+    }
+    
+  
+        }
+    }
+} 
