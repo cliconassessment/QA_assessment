@@ -1,0 +1,14 @@
+API: https://jsonplaceholder.typicode.com/todos
+API: https: todo/tracker
+Header-
+Auth-"6B29FC40-CA47-1067-B31D"
+
+Feature: Todo API
+Background:
+*def =
+*def =
+
+Scenario: Need to extract the Value of "title" filed for Userid 3 and store into a variable and use that variable as input to the next end point todo/tracker
+GIVEN
+AND
+Then
