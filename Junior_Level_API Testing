@@ -1,0 +1,13 @@
+API: https://jsonplaceholder.typicode.com/todos
+Header-
+Auth-"6B29FC40-CA47-1067-B31D"
+
+Feature: Todo API
+Background:
+*def =
+*def =
+
+Scenario: Need to Validate the API response Code 200
+GIVEN
+AND
+Then
